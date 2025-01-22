@@ -221,7 +221,7 @@ p.note { display: none; }
 <a href="20250121_040.JPG" target="_blank"><img src="20250121_040.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">カノープスは知らないと言う方のために、説明リンク貼ります</span></h2>
-<a href="https://www.nao.ac.jp/astro/sky/2016/02-topics01.html" target="_blank"><h1>「カノープス」リンク</h1></a>
+<a href="https://www.nao.ac.jp/astro/sky/2016/02-topics01.html" target="_blank"><h1><span class="yellow">「カノープス」リンク</span></h1></a>
 
 
 
