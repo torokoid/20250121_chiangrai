@@ -220,6 +220,10 @@ p.note { display: none; }
 <h2><span class="yellow">命日なのでカノープスが南中するまで待って、もう一枚撮りました。</span></h2>
 <a href="20250121_040.JPG" target="_blank"><img src="20250121_040.JPG" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">カノープスは知らないと言う方のために、説明リンク貼ります</span></h2>
+<a href="https://www.nao.ac.jp/astro/sky/2016/02-topics01.html" target="_blank"><h1>「カノープス」リンク</h1></a>
+
+
 
 <br><br><br>
 <h2><span class="yellow">以上、5日連続で朝一の東の空に沈みゆく月からスタート。<br>平穏な1日の流れをかき消すような事態で一日中ドタバタでした。<br>ここまで観ていただきありがとうございました。</span></h2>
