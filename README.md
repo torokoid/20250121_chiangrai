@@ -152,7 +152,7 @@ p.note { display: none; }
 <a href="20250121_008.JPG" target="_blank"><img src="20250121_008.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">流石に映像は衝撃的なので別サイトに置きました</span></h2>
-<a href="https://torokoid.github.io/20250121_/" target="_blank"><h2>病死者の映像が含まれます。<br>絶対に見たいと言う人のみクリック願います</h2></a>
+<a href="https://torokoid.github.io/20250121_/" target="_blank"><h1>病死者の映像が含まれます。<br>絶対に見たいと言う人のみクリック願います</h1></a>
 
 <h2><span class="yellow">この建物でお亡くなりになりました</span></h2>
 <a href="20250121_009.JPG" target="_blank"><img src="20250121_009.JPG" alt="サンプル画像" width="900" /></a>
